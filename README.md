@@ -13,7 +13,7 @@ In about 45 minutes you will make two maps of Florida's coastal ocean from real 
 
 Click the badge to open the notebook in Google Colab. It runs in your browser, so there is nothing to install.
 
-**Slides:** [View the workshop slides on Canva]([https://canva.link/jt9xv4ea440msnw])
+**Slides:** [View the workshop slides on Canva](https://canva.link/jt9xv4ea440msnw)
 
 ## Before the workshop
 
